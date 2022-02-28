@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="checkstyle-5.7-all2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ass6/src/game/gameenvironment/levels/checkstyle-5.7-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
